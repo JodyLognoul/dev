@@ -1,0 +1,1453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"result"
+			],
+			[
+				"input",
+				"inputEmail"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"Route",
+				"Route	Laravel: Route::get()"
+			],
+			[
+				"Url",
+				"URL	Laravel: URL::to_route()"
+			],
+			[
+				"Aut",
+				"Auth	Laravel: Auth::login()"
+			],
+			[
+				"sha",
+				"shaid"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"hmac",
+				"hash_hmac"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"Auth",
+				"Auth	Laravel: Auth::guest()"
+			],
+			[
+				"us",
+				"user_exist"
+			],
+			[
+				"Log",
+				"Log	Laravel: Log::write()"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"Red",
+				"Redirect	Laravel: Redirect::to()"
+			],
+			[
+				"URL",
+				"URL	Laravel: URL::to()"
+			],
+			[
+				"Au",
+				"Auth	Laravel: Auth::logout()"
+			],
+			[
+				"HTML",
+				"HTML	Laravel: HTML::link_to_route()"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"c",
+				"credentials"
+			],
+			[
+				"Input",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"INP",
+				"Input	Laravel: Input::all()"
+			],
+			[
+				"For",
+				"Form	Laravel: Form::close()"
+			],
+			[
+				"Form",
+				"Form	Laravel: Form::open()"
+			],
+			[
+				"chec",
+				"checkbox"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"FORM",
+				"Form	Laravel: Form::label()"
+			],
+			[
+				"HTMl",
+				"HTML	Laravel: HTML::link_to_action()"
+			],
+			[
+				"HTM",
+				"HTML	Laravel: HTML::link_to_route()"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"HT",
+				"HTML	Laravel: HTML::script()"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"She",
+				"Schema	Laravel: Schema::table()"
+			],
+			[
+				"Inp",
+				"Input	Laravel: Input::get()"
+			],
+			[
+				"FOr",
+				"Form	Laravel: Form::input()"
+			],
+			[
+				"Shema",
+				"Schema	Laravel: Schema::drop()"
+			],
+			[
+				"H",
+				"HTML	Laravel: HTML::ul()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"port",
+				"portability"
+			],
+			[
+				"ht",
+				"htmlCc"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bod",
+				"border-bottom"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"abonnement",
+				"abonnement2"
+			],
+			[
+				"abo",
+				"abo2"
+			],
+			[
+				"cl",
+				"closest"
+			],
+			[
+				"abonn",
+				"abonnement"
+			],
+			[
+				"H6",
+				"h6	Tag"
+			],
+			[
+				"json",
+				"json_a"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"re",
+				"removeAttr"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"s",
+				"subject"
+			],
+			[
+				"send",
+				"sendmail"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"num",
+				"numcmb"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"cm",
+				"cmdqty"
+			],
+			[
+				"id",
+				"idorder"
+			],
+			[
+				"cmd",
+				"cmduser"
+			],
+			[
+				"DB",
+				"DB_PASSWORD"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"asse",
+				"assertTrue"
+			],
+			[
+				"select",
+				"selectButton"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"socket",
+				"sockets"
+			],
+			[
+				"socke",
+				"socket"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/dev/laravel/application/views/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 1002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/dev/laravel/application/views/user/confirmation.blade.php",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/dev/laravel/application/routes.php",
+			"settings":
+			{
+				"buffer_size": 3647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/dev/laravel/application/controllers/user.php",
+			"settings":
+			{
+				"buffer_size": 4954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/dev/laravel/application/views/user/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 5149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/dev/laravel/public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 2053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/dev/laravel/public/js/login-sign-in.js",
+			"settings":
+			{
+				"buffer_size": 886,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"sni jqu",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"snip jque",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"sni jquer",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Pro",
+				"Project: Add Folder"
+			],
+			[
+				"add pr",
+				"Package Control: Add Repository"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"symfony",
+				"Snippet: Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"css",
+				"Snippet: CSS - :active"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"gist ",
+				"Gist: Create Public Gist"
+			],
+			[
+				"giest",
+				"Gist: Open Gist"
+			],
+			[
+				"for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/dev/laravel/public/css/style.css",
+		"/var/www/dev/laravel/public/js/typing.js",
+		"/media/DATA/Cours Inpres/2008/Divers Stage/new file",
+		"/var/www/dev/laravel/public/js/twitter-core.js",
+		"/var/www/dev/laravel/public/js/twitter-signup.js",
+		"/var/www/dev/laravel/public/js/twitter.js",
+		"/var/www/dev/laravel/public/js/twitter-2.js",
+		"/var/www/dev/laravel/public/js/login-sign-in.js",
+		"/var/www/dev/laravel/application/views/home/index.blade.php",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/index.php",
+		"/var/www/dev/laravel/application/migrations/2012_10_15_150917_build_all_schema.php",
+		"/var/www/dev/laravel/public/js/site.js",
+		"/var/www/dev/laravel/application/views/party/index.blade.php",
+		"/var/www/dev/laravel/application/bundles.php",
+		"/var/www/dev/laravel/application/controllers/party.php",
+		"/var/www/dev/laravel/laravel/database/eloquent/model.php",
+		"/var/www/dev/laravel/laravel/auth/drivers/eloquent.php",
+		"/home/jody/Téléchargements/bootstrap/css/bootstrap.css",
+		"/var/www/dev/laravel/public/js/login.js",
+		"/var/www/dev/laravel/application/routes.php",
+		"/media/CA44A75F44A74D4F/Program Files/OpenVPN/config/client.ovpn",
+		"/home/jody/www/dev/laravel/laravel.sublime-project",
+		"/var/www/dev/laravel/inserts.sql",
+		"/var/www/dev/laravel/application/views/user/index.blade.php",
+		"/var/www/dev/laravel/application/views/home/list.blade.php",
+		"/var/www/dev/laravel/application/views/party/list.blade.php",
+		"/var/www/dev/laravel/application/views/party/new.blade.php",
+		"/tmp/fz3temp-1/cc.html.twig",
+		"/tmp/fz3temp-1/mod1.html.twig",
+		"/home/jody/Dropbox/Afa/Crédit Agricole/In CH - Chinois.txt",
+		"/var/www/dev/laravel/application/config/auth.php",
+		"/home/jody/Téléchargements/CustomLoginFormStyling/CustomLoginFormStyling/css/style.css",
+		"/home/jody/Téléchargements/CustomLoginFormStyling/CustomLoginFormStyling/index2.html",
+		"/home/jody/Téléchargements/CustomLoginFormStyling/CustomLoginFormStyling/css/demo.css",
+		"/home/jody/Téléchargements/CustomLoginFormStyling/CustomLoginFormStyling/index4.html",
+		"/home/jody/Téléchargements/CustomLoginFormStyling/CustomLoginFormStyling/index.html",
+		"/var/www/dev/laravel/application/views/party/edit.blade.php",
+		"/var/www/dev/laravel/application/controllers/home.php",
+		"/var/www/dev/laravel/application/config/application.php",
+		"/var/www/dev/laraveltest/application/routes.php",
+		"/var/www/dev/laraveltest/application/config/application.php",
+		"/var/www/dev/laravel/public/.htaccess",
+		"/var/www/dev/laravel/application/models/User.php",
+		"/var/www/dev/laravel/application/models/Address.php",
+		"/var/www/dev/laravel/application/models/Party.php",
+		"/var/www/dev/laravel/cmd.sql",
+		"/home/jody/.cache/.fr-25jwiV/laravel-laravel-4d3c681/application/routes.php",
+		"/home/jody/.cache/.fr-aEHW3P/laravel-laravel-4d3c681/public/.htaccess",
+		"/home/jody/.config/sublime-text-2/Packages/User/ressources.sublime-snippet",
+		"/var/www/dev/laravel/application/migrations/2012_10_15_132942_create_user_table.php",
+		"/var/www/dev/laravel/application/migrations/2012_10_15_132987_create_party_table.php",
+		"/var/www/dev/laravel/application/migrations/2012_10_15_132937_create_party_table.php",
+		"/var/www/dev/laravel/application/migrations/2012_10_15_123432_create_all_schema.php",
+		"/var/www/dev/laravel/application/migrations/2012_10_15_131620_build_all_schema.php",
+		"/var/www/dev/laravel/application/migrations/2012_10_02_160114_create_table_party.php",
+		"/var/www/dev/laravel/application/views/main.blade.php",
+		"/tmp/autocomplete.php",
+		"/tmp/index.php",
+		"/home/jody/Bureau/README",
+		"/var/www/dev/laravel/application/views/main.blade.html",
+		"/var/www/dev/laravel/application/config/database.php",
+		"/home/jody/www/dev/sunrise/fr/index.php",
+		"/home/jody/www/dev/sunrise/de/index.php",
+		"/home/jody/www/dev/sunrise/fr/template/firma/fedsuissegym.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/fedsuissegym.html.twig",
+		"/home/jody/www/dev/sunrise/fr/libs/css/style.css",
+		"/home/jody/www/dev/sunrise/de/libs/css/style.css",
+		"/home/jody/www/dev/sunrise/de/template/form.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/form.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/pompiers.html.twig",
+		"/home/jody/www/dev/sunrise/de/phones/liste.json",
+		"/home/jody/www/dev/sunrise/fr/template/firma/pompiers.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/start.html.twig",
+		"/home/jody/www/dev/sunrise/fr/phones/listeUp600.json",
+		"/home/jody/www/dev/sunrise/fr/phones/liste.json",
+		"/home/jody/www/dev/sunrise/de/template/accueil.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/assocsuissefootball.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/ccs.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/fedjudo2012.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/fedsuissetir.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/fromagers.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/immobiliers.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/paysans.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/prof.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/swissicehockey.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/swisssailing.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/unia.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/vignerons.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/assocsuissefootball.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/ccs.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/fedsuissetir.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/fedjudo2012.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/swissicehockey.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/swisssailing.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/swisssailing.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/unia.twig",
+		"/home/jody/www/dev/sunrise/de/template/firma/unia.twig",
+		"/home/jody/www/dev/sunrise/fr/template/portability.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/portability.html.twig",
+		"/home/jody/www/dev/sunrise/de/template/cc.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/cc.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/start.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/fromagers.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/immobiliers.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/paysans.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/prof.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/firma/vignerons.html.twig",
+		"/home/jody/Dropbox/Afa/License/st2.txt",
+		"/home/jody/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/home/jody/www/dev/sunrise/fr/names.txt",
+		"/home/jody/www/dev/sunrise/sunrise.sublime-project",
+		"/home/jody/www/dev/sunrise/sunrise.sublime-workspace",
+		"/home/jody/www/dev/gg-new/gg-new.sublime-project",
+		"/home/jody/www/dev/sunrise/de/template/_form.html.twig",
+		"/home/jody/www/dev/sunrise/fr/template/accueil.html.twig",
+		"/home/jody/www/dev/gg-new/web/view/index.html",
+		"/home/jody/www/dev/gg-new/web/public/js/site.js",
+		"/home/jody/Téléchargements/lesson-24/lesson-24/load.php",
+		"/home/jody/Téléchargements/lesson-24/lesson-24/index.html",
+		"/home/jody/www/dev/gg-new/src/gg/DefaultBundle/Controller/PartyController.php",
+		"/home/jody/www/dev/gg-new/src/gg/DefaultBundle/Entity/Party.php",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/Default.sublime-keymap",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/Default.sublime-commands",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/Preferences.sublime-settings",
+		"/home/jody/Téléchargements/lesson-19/lesson-19/index.html",
+		"/home/jody/Téléchargements/lesson-15/lesson-15/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/jody/Bureau/ftp/nayax",
+			"<project>",
+			"/home/jody/Bureau/ftp/nayax",
+			"http://nayax.ch",
+			"/home/jody/www/dev/gg-new",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/sf2card/src",
+			"/var/www/sf2card/vendor",
+			"/var/www/sf2card/src/Ca/CardBundle",
+			"/var/www/sf2card/vendor",
+			"/var/www/nayax",
+			"/var/www/sf2card",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2/nexus",
+			"/home/jody/Bureau/cdv",
+			"/home/jody/cdv",
+			"/home/jody/Bureau/efolio",
+			"/home/jody/.gvfs/FTP sur www.afacard.ch en tant que admin/cdv",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/sf2gg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"valid",
+			"setTimeout",
+			"verifyEmail",
+			"email_available",
+			"verifyEmail",
+			"email_available",
+			"core.js",
+			"emailSelector",
+			"ajax",
+			"timeout",
+			"fields",
+			"b.fields",
+			"change",
+			"keyup",
+			"currentClock",
+			"1e4",
+			"time",
+			",'required'=>'required'",
+			"get",
+			"msg",
+			"closed",
+			"corporation",
+			"span",
+			"$",
+			"save",
+			"//",
+			"/",
+			"class=\"\"",
+			"255",
+			"<i class=\"icon-chevron-right\"></i>",
+			"bs-docs-sidebar",
+			".span10 ",
+			".span2 ",
+			".span2",
+			"lang",
+			"username",
+			"users@",
+			"<h2>",
+			"h2",
+			"btn-warning",
+			"Password",
+			"password",
+			"Password",
+			"password",
+			"Password",
+			"h1",
+			"'",
+			"`",
+			"http://dev.afacard.ch",
+			"Route::get('/', function()\n{\n	return View::make('home.index');\n});\n",
+			"() ",
+			"#",
+			"<b>afatel</b>",
+			"nom",
+			"}\n",
+			"div",
+			"tel",
+			"‐",
+			"Type d'abonnement",
+			"p",
+			"ccafa",
+			"table",
+			"‐",
+			" __ ",
+			"data-middle",
+			"&nbsp;&nbsp;&nbsp;",
+			"data-underline-middle-2",
+			" __ ",
+			"yes",
+			"no",
+			"true",
+			"concatAttr",
+			"operateur",
+			"checked",
+			"class",
+			"\n&",
+			";\n",
+			"portatype2",
+			"aboType3",
+			"aboCarteSim3",
+			"phoneInf3",
+			"phoneSup3",
+			"X",
+			"attrnumtel2",
+			"phoneSup2",
+			"phoneInf2",
+			"aboCarteSim2",
+			"aboType2",
+			"ortatype",
+			"attrnumtel",
+			"phoneSup",
+			"aboType",
+			"optionsradiosabonnement",
+			"aboCarteSim",
+			"phoneInf",
+			"name=",
+			"for=",
+			"input",
+			"id",
+			"name",
+			"for=",
+			"name=",
+			"reprisenumtel",
+			"show",
+			"operateurs",
+			"reprisenumtel",
+			"attrnumtel1",
+			"phoneSup",
+			"span",
+			"transfert-tel-elem",
+			"50px",
+			"{{ data }}",
+			"&nbsp;&nbsp;&nbsp;",
+			"../libs",
+			"no",
+			"<img class=\"img-check\" src=\"../libs/img/check.png\">",
+			"data-fixe-lenght",
+			">\n",
+			"data-underline",
+			"header-address",
+			"p",
+			"tinfo",
+			"div",
+			"div clas",
+			"div",
+			"DIV",
+			"div",
+			"td"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<h2 class=\"h2\">",
+			"\"",
+			"'",
+			"http://nayax.ch",
+			"#",
+			"local",
+			"Name\nName",
+			"correspondance",
+			"nb-etiquette"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/dev/laravel/application/views/main.blade.php",
+					"settings":
+					{
+						"buffer_size": 1002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								926,
+								926
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/dev/laravel/application/views/user/confirmation.blade.php",
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/var/www/dev/laravel/application/routes.php",
+					"settings":
+					{
+						"buffer_size": 3647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1245,
+								1245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/var/www/dev/laravel/application/controllers/user.php",
+					"settings":
+					{
+						"buffer_size": 4954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/var/www/dev/laravel/application/views/user/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 5149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/var/www/dev/laravel/public/css/style.css",
+					"settings":
+					{
+						"buffer_size": 2053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1815,
+								1815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/var/www/dev/laravel/public/js/login-sign-in.js",
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"public/css/style.css"
+			],
+			[
+				".css",
+				"public/css/style.css"
+			],
+			[
+				"core",
+				"public/js/twitter-core.js"
+			],
+			[
+				"login",
+				"public/js/login-sign-in.js"
+			],
+			[
+				"lo",
+				"public/js/login-sign-in.js"
+			],
+			[
+				"sign",
+				"public/js/login-sign-in.js"
+			],
+			[
+				"index",
+				"application/views/home/index.blade.php"
+			],
+			[
+				"sty",
+				"public/css/style.css"
+			],
+			[
+				"site",
+				"public/js/site.js"
+			],
+			[
+				"eloquent",
+				"laravel/database/eloquent/model.php"
+			],
+			[
+				"user",
+				"application/controllers/user.php"
+			],
+			[
+				"inde",
+				"application/views/user/index.blade.php"
+			],
+			[
+				"route",
+				"application/routes.php"
+			],
+			[
+				"part",
+				"application/controllers/party.php"
+			],
+			[
+				"ibde",
+				"application/views/party/index.blade.php"
+			],
+			[
+				"stl",
+				"public/css/style.css"
+			],
+			[
+				"party",
+				"gg-new/src/gg/DefaultBundle/Entity/Party.php"
+			],
+			[
+				"s",
+				"libs/css/style.css"
+			],
+			[
+				".js",
+				"libs/js/form.js"
+			],
+			[
+				"cc.",
+				"template/cc.html.twig"
+			],
+			[
+				"cc",
+				"libs/php/dompdf/_www/test/css_content.html"
+			],
+			[
+				"por",
+				"template/portability.html.twig"
+			],
+			[
+				"form",
+				"template/form.html.twig"
+			],
+			[
+				"",
+				"template/cc.html.twig"
+			],
+			[
+				"class",
+				"nayax/wp-includes/class-json.php"
+			],
+			[
+				"config",
+				"laposte/web/config.php"
+			],
+			[
+				"wp-mail",
+				"nayax/wp-mail.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,96 @@
+/* GLOBALS */
+
+/* ID */
+#nav-main{
+	margin: auto;
+	width: 58%;
+}
+#container{
+	margin: 0 auto 50px auto;
+	padding: 47px 10px;
+	width: 89%;
+	min-height: 1080px;
+   	background: rgba(255,255,255,0.02); /* transparent color */
+	background: transparent9; /* clear solid background for ie */
+	zoom:1; /* required for the filters */
+	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#50FFFFFF, endColorstr=#50FFFFFF)"; /* IE8 */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#50FFFFFF, endColorstr=#50FFFFFF); /* IE5.5-7 */
+}
+#second-nav{
+	position: fixed;
+
+}
+#second-nav a:hover{
+	background-color: #ddd;
+	border-radius: 10px;
+}
+#second-nav a{
+	text-decoration: none;
+	display: block;
+	padding: 5px 10px;
+}
+#second-nav li{
+	list-style: none;
+	font-size: 1.1em;
+}
+
+/* CLASS */
+.input-msg{
+	margin-left: 10px;
+}
+.h2{
+	font-size: 20px;
+	color: #444444;
+	margin: 0 0 30px 0;
+}
+.body {
+	position: relative;
+    background: url("../img/office.png") repeat scroll left top #DDDDDD;
+    color: #333333;
+	font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.cadre{
+	background-color: #eee;
+	padding: 10px 20px;
+	margin: 0 0 5px 0;
+	border-radius: 10px;
+}
+
+.img-cadre{
+	vertical-align: middle;
+	float: right;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+
+.checking{
+	background-image: url("https://twimg0-a.akamaihd.net/a/1351295865/phoenix/img/spinner-small.gif");
+	background-position: left center;
+	background-repeat: no-repeat;
+	line-height: 16px;
+	padding-left: 18px;
+}
+.error{
+    background-image: url("https://twimg0-a.akamaihd.net/a/1351295865/phoenix/img/error.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    line-height: 16px;
+	padding-left: 18px;
+	color: #CC3333;
+}
+.valid{
+	background-image: url("https://twimg0-a.akamaihd.net/a/1351565274/phoenix/img/accept.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    line-height: 16px;
+	padding-left: 18px;
+	color: #339900;
+}

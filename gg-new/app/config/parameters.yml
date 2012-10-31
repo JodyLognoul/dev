@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: localhost
+    database_port: null
+    database_name: ggnew
+    database_user: ggnew
+    database_password: ggnew
+    mailer_transport: smtp
+    mailer_host: localhost
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 65d005c2bd1da3dd9084044847e3b00dbc5a7de0
+    database_path: null

@@ -1,0 +1,1 @@
+[2012-10-26 17:55:41] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /view/" (uncaught exception) at /var/www/dev/gg-new/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/EventListener/RouterListener.php line 92 [] []

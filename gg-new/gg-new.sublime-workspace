@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sel",
+				"self"
+			],
+			[
+				"port",
+				"portability"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"ht",
+				"htmlCc"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bod",
+				"border-bottom"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"abonnement",
+				"abonnement2"
+			],
+			[
+				"abo",
+				"abo2"
+			],
+			[
+				"cl",
+				"closest"
+			],
+			[
+				"abonn",
+				"abonnement"
+			],
+			[
+				"H6",
+				"h6	Tag"
+			],
+			[
+				"json",
+				"json_a"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"re",
+				"removeAttr"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"s",
+				"subject"
+			],
+			[
+				"send",
+				"sendmail"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"num",
+				"numcmb"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"cm",
+				"cmdqty"
+			],
+			[
+				"id",
+				"idorder"
+			],
+			[
+				"cmd",
+				"cmduser"
+			],
+			[
+				"DB",
+				"DB_PASSWORD"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"asse",
+				"assertTrue"
+			],
+			[
+				"select",
+				"selectButton"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"socket",
+				"sockets"
+			],
+			[
+				"socke",
+				"socket"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "web/public/js/site.js",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jody/www/sf2card/src/Ca/CardBundle/Entity/Card.php",
+			"settings":
+			{
+				"buffer_size": 16236,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"linter",
+				"SublimeLinter: Load-Save Linting"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sni jqu",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"snip jque",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"sni jquer",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Pro",
+				"Project: Add Folder"
+			],
+			[
+				"add pr",
+				"Package Control: Add Repository"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"symfony",
+				"Snippet: Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"css",
+				"Snippet: CSS - :active"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"gist ",
+				"Gist: Create Public Gist"
+			],
+			[
+				"giest",
+				"Gist: Open Gist"
+			],
+			[
+				"for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jody/www/dev/gg-new/web/view/index.html",
+		"/home/jody/www/dev/gg-new/web/public/js/site.js",
+		"/home/jody/www/dev/gg-new/src/gg/DefaultBundle/Controller/PartyController.php",
+		"/home/jody/Téléchargements/lesson-20/lesson-20/index.html",
+		"/home/jody/Téléchargements/lesson-14/lesson-14/slider.js",
+		"/home/jody/Téléchargements/lesson-19/lesson-19/index.html",
+		"/home/jody/Téléchargements/lesson-24/lesson-24/load.php",
+		"/home/jody/Téléchargements/lesson-24/lesson-24/index.html",
+		"/home/jody/www/dev/gg-new/src/gg/DefaultBundle/Entity/Party.php",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/Default.sublime-keymap",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/Default.sublime-commands",
+		"/home/jody/.config/sublime-text-2/Packages/ZenCoding/Preferences.sublime-settings",
+		"/home/jody/Téléchargements/lesson-15/lesson-15/index.html",
+		"/home/jody/Téléchargements/lesson-14/lesson-14/index.html",
+		"/home/jody/Téléchargements/lesson-8/lesson-8/index.html",
+		"/home/jody/www/dev/gg-new/UPGRADE.md",
+		"/home/jody/www/dev/gg-new/composer.phar",
+		"/home/jody/www/dev/sunrise/fr/template/portability.html.twig",
+		"/home/jody/www/dev/sunrise/fr/index.php",
+		"/home/jody/www/dev/sunrise/fr/template/form.html.twig",
+		"/home/jody/www/dev/sunrise/fr/libs/js/form.js",
+		"/home/jody/www/dev/sunrise/fr/template/cc.html.twig",
+		"/home/jody/www/dev/sunrise/fr/test.js",
+		"/home/jody/www/dev/sunrise/fr/libs/css/style.css",
+		"/home/jody/www/dev/sunrise/fr/names.txt",
+		"/home/jody/www/dev/sunrise/fr/exemple.js",
+		"/home/jody/www/dev/sunrise/fr/test.class.php",
+		"/home/jody/www/dev/sunrise/fr/lol.js",
+		"/home/jody/.config/sublime-text-2/Packages/AdvancedNewFile/README.rst",
+		"/home/jody/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/jody/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jody/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/jody/www/dev/sunrise/fr/libs/php/dompdf/_www/test/css_content.html",
+		"/home/jody/www/dev/gg-new/app/Resources/views/base.html.twig",
+		"/home/jody/www/dev/gg-new/app/config/routing.yml",
+		"/home/jody/www/dev/gg-new/app/config/parameters.yml",
+		"/home/jody/www/dev/gg-new/app/config/config.yml",
+		"/home/jody/www/dev/gg-new/src/gg/DefaultBundle/Controller/DefaultController.php",
+		"/home/jody/www/dev/gg-new/src/gg/DefaultBundle/Resources/views/Default/index.html.twig",
+		"/home/jody/Téléchargements/lesson-15/lesson-15/slider.js",
+		"/home/jody/www/dev/gg-new/web/public/js/jquery.js",
+		"/home/jody/.cache/.fr-Vtebco/lesson-15/slider.js",
+		"/home/jody/Documents/sunrise - abo - bkp.html",
+		"/home/jody/www/dev/sunrise/fr/phones/listeUp600.json",
+		"/home/jody/www/dev/sunrise/fr/phones/liste.json",
+		"/home/jody/www/dev/sunrise/fr/phones/liste600.json",
+		"/home/jody/Dropbox/Afa/Sunrise/json.json",
+		"/home/jody/www/dev/gg-new/web/public/css/style.css",
+		"/home/jody/Bureau/gg/index.html",
+		"/home/jody/www/dev/gg-new/app/AppKernel.php",
+		"/home/jody/www/dev/gg-new/app/config/routing_dev.yml",
+		"/home/jody/www/dev/gg-new/app/autoload.php",
+		"/etc/apache2/httpd.conf",
+		"/etc/hosts",
+		"/home/jody/Bureau/dev/sunrise/fr/libs/css/style.css",
+		"/home/jody/Bureau/dev/sunrise/fr/template/form.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/libs/js/form.js",
+		"/home/jody/Bureau/dev/sunrise/fr/index.php",
+		"/home/jody/Bureau/dev/images/index.php",
+		"/home/jody/Bureau/dev/sunrise/other/Sunrise - Medinex - Exemple/orderPrintView.htm",
+		"/home/jody/Bureau/dev/sunrise/other/Sunrise - Medinex - Exemple/orderPrintView_fichiers/online_print_form.css",
+		"/home/jody/Bureau/dev/sunrise/fr/template/cc_new.html.twig",
+		"/home/jody/Dropbox/Afa/Sunrise/Sunrise - Medinex - Exemple/orderPrintView.htm",
+		"/home/jody/Bureau/dev/sunrise/de/template/cc.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/cc.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/form.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/start.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/start.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/index.php",
+		"/home/jody/Bureau/dev/images/colors.php",
+		"/home/jody/.config/sublime-text-2/Packages/Gist/Gist.sublime-settings",
+		"/home/jody/Bureau/dev/sunrise/fr/template/end.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/end.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/libs/js/jquery.js",
+		"/home/jody/Bureau/dev/sunrise/fr/template/firma/fromagers.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/firma/immobiliers.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/firma/immobiliers.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/firma/prof.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/firma/fromagers.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/firma/paysans.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/firma/pompiers.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/firma/vignerons.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/firma/pompiers.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/firma/prof.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/firma/vignerons.html.twig",
+		"/home/jody/Bureau/dev/sunrise/fr/template/firma/paysans.html.twig",
+		"/home/jody/Bureau/dev/sunrise/de/template/accueil.html.twig",
+		"/home/jody/www/dev/sunrise/template/end.html.twig",
+		"/home/jody/www/dev/sunrise/template/form.html.twig",
+		"/home/jody/www/dev/sunrise/template/cc.html.twig",
+		"/home/jody/www/dev/sunrise/template/accueil.html.twig",
+		"/home/jody/www/dev/sunrise/template/start.html.twig",
+		"/home/jody/www/dev/sunrise/index.php",
+		"/home/jody/www/dev/sunrise/template/firma/pompier.html.twig",
+		"/home/jody/www/dev/sunrise/libs/js/form.js",
+		"/home/jody/www/dev/sunrise/cmd.ini",
+		"/home/jody/www/dev/sunrise/validate-data.php",
+		"/home/jody/www/dev/sunrise/verify-code.php",
+		"/home/jody/www/dev/sunrise/template/firma/medecins.html.twig",
+		"/home/jody/www/dev/sunrise/form.php",
+		"/home/jody/www/dev/sunrise/Template/cc.html.twig",
+		"/home/jody/www/dev/sunrise/merci.php",
+		"/home/jody/www/dev/sunrise/start.php",
+		"/home/jody/www/dev/sunrise/accueil.php",
+		"/home/jody/www/dev/sunrise/capp.php",
+		"/home/jody/www/dev/sunrise/libs/css/style.css",
+		"/home/jody/www/sf2card/web/app.php",
+		"/home/jody/www/sf2card/web/.htaccess",
+		"/home/jody/www/sf2card/src/Ca/CardBundle/Controller/CardController.php",
+		"/home/jody/www/sf2card/app/config/routing.yml",
+		"/home/jody/www/sf2card/src/Ca/CardBundle/Controller/CommandeController.php",
+		"/home/jody/www/sf2card/src/Ca/CardBundle/Controller/DefaultController.php",
+		"/home/jody/www/dev/sunrise/libs/php/dompdf/dompdf_config.inc.php",
+		"/var/www/dev/sunrise/index.php",
+		"/home/jody/Dev/Template/index.html",
+		"/home/jody/Dev/Template/libs/css/style.css",
+		"/home/jody/Téléchargements/h5bp-html5-boilerplate-2279296/css/main.css",
+		"/home/jody/Téléchargements/h5bp-html5-boilerplate-2279296/index.html",
+		"/home/jody/Dev/Template/index.php",
+		"/var/www/sf2card/src/Ca/CardBundle/Resources/views/Card/models/mod1.html.twig",
+		"/var/www/sf2card/web/public/js/cardvisu.js",
+		"/var/www/sf2card/src/Ca/CardBundle/Resources/views/Card/show.html.twig",
+		"/var/www/sf2card/app/Resources/views/base.html.twig",
+		"/var/www/sf2card/src/Ca/CardBundle/Controller/CardController.php",
+		"/media/CA44A75F44A74D4F/Documents and Settings/Jody/Desktop/arbre.sql",
+		"/home/jody/Dev/Script/CreateProject.sh",
+		"/home/jody/www/sf2card/web/public/js/twice.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/jody/www/dev/gg-new",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/sf2card/src",
+			"/var/www/sf2card/vendor",
+			"/var/www/sf2card/src/Ca/CardBundle",
+			"/var/www/sf2card/vendor",
+			"/var/www/nayax",
+			"/var/www/sf2card",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2/nexus",
+			"/home/jody/Bureau/cdv",
+			"/home/jody/cdv",
+			"/home/jody/Bureau/efolio",
+			"/home/jody/.gvfs/FTP sur www.afacard.ch en tant que admin/cdv",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/sf2gg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://dev.local/gg-new/web/app_dev.php/party/",
+			"table",
+			"‐",
+			" __ ",
+			"data-middle",
+			"&nbsp;&nbsp;&nbsp;",
+			"data-underline-middle-2",
+			" __ ",
+			"yes",
+			"no",
+			"true",
+			"concatAttr",
+			"operateur",
+			"checked",
+			"class",
+			"\n&",
+			";\n",
+			"portatype2",
+			"aboType3",
+			"aboCarteSim3",
+			"phoneInf3",
+			"phoneSup3",
+			"X",
+			"attrnumtel2",
+			"phoneSup2",
+			"phoneInf2",
+			"aboCarteSim2",
+			"aboType2",
+			"ortatype",
+			"attrnumtel",
+			"phoneSup",
+			"aboType",
+			"optionsradiosabonnement",
+			"aboCarteSim",
+			"phoneInf",
+			"name=",
+			"for=",
+			"input",
+			"id",
+			"name",
+			"for=",
+			"name=",
+			"reprisenumtel",
+			"show",
+			"operateurs",
+			"reprisenumtel",
+			"attrnumtel1",
+			"phoneSup",
+			"span",
+			"transfert-tel-elem",
+			"50px",
+			"{{ data }}",
+			"&nbsp;&nbsp;&nbsp;",
+			"../libs",
+			"no",
+			"<img class=\"img-check\" src=\"../libs/img/check.png\">",
+			"data-fixe-lenght",
+			">\n",
+			"data-underline",
+			"header-address",
+			"p",
+			"tinfo",
+			"div",
+			"div clas",
+			"div",
+			"DIV",
+			"div",
+			"td",
+			"table",
+			"5px",
+			"h3",
+			"class",
+			"abo0Type2",
+			"abonnement",
+			"typeAbo0",
+			"#",
+			"...",
+			"Enregistrer",
+			"AcmeDemoBundle",
+			"localhost",
+			".formDocumentHead .sunriseLogo p:last-child",
+			"printOnly",
+			"addressing",
+			"formDocument printablePage printOnly",
+			"moulin jean",
+			"moulin jean ",
+			"Madame, Monsieur,",
+			"Nom",
+			"Rue/n° *",
+			"corresponance",
+			"Allemand",
+			"generate",
+			"pdf",
+			"dompdf",
+			"CaCardBundleGetData",
+			"color: #",
+			"departement",
+			"$p =",
+			"$p",
+			"false",
+			"br",
+			"'p'",
+			"p'",
+			" 'p'",
+			" <p>",
+			" wpautop",
+			" wpautop($pee,",
+			" wpautop($pee, ",
+			"wptexturize",
+			"apply_source_formatting",
+			"tagline",
+			"div.tagline",
+			"contact-form-7",
+			"widget.txt",
+			"con-\ntact-page-contact-information-widget.txt\n",
+			"tagline",
+			"deve",
+			"google",
+			"commande",
+			"command",
+			"command(",
+			"command",
+			"'CaCardBundleCommand'",
+			"new Response",
+			"Response",
+			"request",
+			"requer",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"local",
+			"Name\nName",
+			"correspondance",
+			"nb-etiquette"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "web/public/js/site.js",
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jody/www/sf2card/src/Ca/CardBundle/Entity/Card.php",
+					"settings":
+					{
+						"buffer_size": 16236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4337,
+								4337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2340.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"part",
+				"gg-new/src/gg/DefaultBundle/Controller/PartyController.php"
+			],
+			[
+				"party",
+				"gg-new/src/gg/DefaultBundle/Entity/Party.php"
+			],
+			[
+				"s",
+				"libs/css/style.css"
+			],
+			[
+				".css",
+				"libs/css/style.css"
+			],
+			[
+				".js",
+				"libs/js/form.js"
+			],
+			[
+				"cc.",
+				"template/cc.html.twig"
+			],
+			[
+				"cc",
+				"libs/php/dompdf/_www/test/css_content.html"
+			],
+			[
+				"por",
+				"template/portability.html.twig"
+			],
+			[
+				"style",
+				"libs/css/style.css"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"form",
+				"template/form.html.twig"
+			],
+			[
+				"",
+				"template/cc.html.twig"
+			],
+			[
+				"class",
+				"nayax/wp-includes/class-json.php"
+			],
+			[
+				"config",
+				"laposte/web/config.php"
+			],
+			[
+				"wp-mail",
+				"nayax/wp-mail.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true
+}

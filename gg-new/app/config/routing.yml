@@ -1,0 +1,8 @@
+gg_default:
+    resource: "@ggDefaultBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+_welcome:
+    pattern:  /
+    defaults: { _controller: ggDefaultBundle:Default:index }
